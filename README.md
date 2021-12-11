@@ -13,11 +13,6 @@ ScreenShot Of the project
 ![ScreenShot](ScreenShot/sc5.png)
 ![ScreenShot](ScreenShot/scl.png)
 
-This is a code repository for my personal portfolio.
-
-Setup:
-
-- run `npm i && npm start`
 
 
   
