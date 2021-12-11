@@ -5,6 +5,20 @@
 •	User can Send or receive message using either TCP/UDP and map the connected network  
 •	Service was built with Python 
 
+ScreenShot Of the project
+![ScreenShot](ScreenShot/sc1.png)
+![ScreenShot](ScreenShot/sc2.png)
+![ScreenShot](ScreenShot/sc3.png)
+![ScreenShot](ScreenShot/sc4.png)
+![ScreenShot](ScreenShot/sc5.png)
+![ScreenShot](ScreenShot/scl.png)
+
+This is a code repository for my personal portfolio.
+
+Setup:
+
+- run `npm i && npm start`
+
 
   
   
